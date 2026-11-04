@@ -1,0 +1,128 @@
+{
+ "generated": "2026-10-28",
+ "domain": "https://nickstrom5.github.io/delaware-eats",
+ "restaurants": 2879,
+ "places_incl_hidden": 3004,
+ "towns": 64,
+ "counties": 3,
+ "on_an_official_list": 2391,
+ "dph_live": 3483,
+ "rev_licenses": 2531,
+ "hand_checked_on_a_guide": 22,
+ "guide_scrapple": 7,
+ "guide_italian": 4,
+ "guide_creamery": 4,
+ "guide_brewpub": 4,
+ "guide_crab": 3,
+ "guide_boardwalk": 1,
+ "guide_dumplings": 0,
+ "guide_pages": [
+  "scrapple",
+  "italian",
+  "creamery",
+  "brewpub"
+ ],
+ "oldest": 0,
+ "honors": 3,
+ "james_beard": 3,
+ "inspection_records": 2053,
+ "sections_cited_latest_routine": {
+  "0": 157,
+  "1": 573,
+  "2": 396,
+  "3": 263,
+  "4": 233,
+  "5": 129,
+  "6": 91,
+  "7": 57,
+  "8": 38,
+  "9": 23,
+  "10": 93
+ },
+ "inspections_through": "2026-10-20",
+ "city_pages": {
+  "Wilmington": {
+   "restaurants": 694,
+   "listed": 8,
+   "scrapple": 2,
+   "italian": 4,
+   "creamery": 0,
+   "brewpub": 0,
+   "hon": 2,
+   "oldest": 0,
+   "inspection_results": 534,
+   "inspection_bands": {
+    "4": 53,
+    "1": 118,
+    "6": 81,
+    "3": 74,
+    "5": 33,
+    "0": 81,
+    "2": 94
+   }
+  },
+  "Lewes": {
+   "restaurants": 86,
+   "listed": 3,
+   "scrapple": 0,
+   "italian": 0,
+   "creamery": 1,
+   "brewpub": 2,
+   "hon": 0,
+   "oldest": 0,
+   "inspection_results": 59,
+   "inspection_bands": {
+    "4": 12,
+    "2": 18,
+    "1": 17,
+    "6": 2,
+    "0": 2,
+    "5": 4,
+    "3": 4
+   }
+  }
+ },
+ "cities_without_a_page": {
+  "Newark": 3,
+  "Dover": 0,
+  "Rehoboth Beach": 3,
+  "Middletown": 1,
+  "Milford": 0,
+  "Smyrna": 1,
+  "Georgetown": 0,
+  "Bethany Beach": 0,
+  "Dewey Beach": 0,
+  "Fenwick Island": 1,
+  "Hockessin": 1,
+  "Seaford": 0,
+  "New Castle": 0,
+  "Milton": 0
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 285741,
+   "gzip": 64572
+  },
+  "data/de_shapes.json": {
+   "raw": 10644,
+   "gzip": 1731
+  },
+  "data/detail-kent-county.json": {
+   "raw": 168059,
+   "gzip": 26395
+  },
+  "data/detail-new-castle-county.json": {
+   "raw": 333269,
+   "gzip": 56095
+  },
+  "data/detail-sussex-county.json": {
+   "raw": 177865,
+   "gzip": 30326
+  },
+  "data/ids.json": {
+   "raw": 37455,
+   "gzip": 22083
+  }
+ }
+}
